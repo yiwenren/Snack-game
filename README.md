@@ -1,6 +1,6 @@
 # Snack-game
 
-It is a simple but classic game. In this game, a sole player attempts to eat items by running into them with the head of the snake. Each item eaten makes the snake longer, so controlling is progressively more difficult.
+Snake a simple but classic game. In this game, a sole player attempts to eat items by running into them with the head of the snake. Each item eaten makes the snake longer, so controlling is progressively more difficult.
 
 The score is displayed on the main panel. Everytime the player wins, the score will be added by 5 points. 
 
